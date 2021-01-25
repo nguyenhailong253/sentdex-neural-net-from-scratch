@@ -3,6 +3,8 @@ import numpy as np
 import nnfs
 from nnfs.datasets import spiral_data
 
+#### Softmax activation - applied to output layer of NN
+
 layer_outputs = [4.8, 1.21, 2.385]
 
 E = math.e
